@@ -1,0 +1,28 @@
+.row-content{
+    margin: 0px auto;
+    padding : 40px 0px 40px 0px;
+}
+.row-header{
+    margin: 0px auto;
+    padding : 0px auto;
+}
+.footer{
+    background-color:rgb(253, 193, 193);
+    color:darkred;
+    padding : 20px 0px 20px 0px;
+}
+.jumbotron{
+    background-color:crimson;
+    color:darkmagenta;
+    padding : 30px 10px 30px 10px;
+}
+.sam{
+    background-color:rgb(205, 206, 139);
+    /* padding : 50px 10px 50px 10px;  */
+    margin: 50px auto;
+    color: rgb(255, 1, 208);
+    border: 15px solid rgb(189, 204, 89); 
+}
+.body{
+    background-color:rgb(242, 242, 206);
+}
