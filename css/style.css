@@ -1,28 +1,29 @@
-.row-content{
-    margin: 0px auto;
-    padding : 40px 0px 40px 0px;
-}
 .row-header{
-    margin: 0px auto;
-    padding : 0px auto;
+    margin:0px auto;
+    padding:0px;
 }
+
+.row-content {
+    margin:0px auto;
+    padding: 50px 0px 50px 0px;
+    /* border-bottom: 1px ridge; */
+    /* min-height:400px; */
+}
+
 .footer{
-    background-color:rgb(253, 193, 193);
-    color:darkred;
-    padding : 20px 0px 20px 0px;
+    background-color: #D1C4E9;
+    margin:0px auto;
+    padding: 20px 0px 20px 0px;
 }
-.jumbotron{
-    background-color:crimson;
-    color:darkmagenta;
-    padding : 30px 10px 30px 10px;
+.sin {
+    padding:70px 30px 70px 30px;
+    margin:0px auto;
+    background: #9575CD ;
+    color:floralwhite;
 }
-.sam{
-    background-color:rgb(205, 206, 139);
-    /* padding : 50px 10px 50px 10px;  */
-    margin: 50px auto;
-    color: rgb(255, 1, 208);
-    border: 15px solid rgb(189, 204, 89); 
-}
-.body{
-    background-color:rgb(242, 242, 206);
+
+address{
+    font-size:80%;
+    margin:0px;
+    color:#0f0f0f;
 }
